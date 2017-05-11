@@ -1,4 +1,4 @@
-# sonyvaioduo13wlan
+# Sony Vaio Duo 13 WLAN Fix
 This is the WLAN Fix for the Sony Vaio Duo 13 with Ubuntu 17.04.
 
 # Installation
